@@ -26,7 +26,7 @@ First, clone the repository to your local machine:
 
 ```
 git clone https://github.com/putbullet/RSA.git
-cd penta-rsa-encryption
+cd RSA
 ```
 
 ### Run the Code
